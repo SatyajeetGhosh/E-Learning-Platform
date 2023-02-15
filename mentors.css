@@ -61,6 +61,7 @@ nav .nav-links ul li a{
 
 nav .nav-links ul li a:hover, nav .nav-links ul li .default {
     color: #0081C9;
+    transition: all 0.2s ease-in-out;
 }
 
 /* Main Content */
