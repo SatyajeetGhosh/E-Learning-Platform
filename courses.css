@@ -61,7 +61,6 @@ nav .nav-links ul li a{
 
 nav .nav-links ul li a:hover, nav .nav-links ul li .default {
     color: #0081C9;
-    border-bottom: 3px solid #0081C9;
 }
 
 /* Main Content */
