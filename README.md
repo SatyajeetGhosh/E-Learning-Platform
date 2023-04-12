@@ -1,8 +1,8 @@
 <h1>E-Learning-Platform</h1>
 
-<h3>Team 'Wizards' comprising of <a href="https://www.linkedin.com/in/satyajeet-ghosh-4b46481ba" target="_blank">me</a> and <a href="https://www.linkedin.com/in/aditya-singh-169387237/" target="_blank">Aditya Singh</a> built an E Learning Platform for Web Ally event conducted by Web Development Club, <a href="https://www.linkedin.com/company/ascii-cse/" target="_blank">ASCII</a> and Christ University, Kengeri Campus, Banagalore.</h3>
+<h3>Team 'Wizards' comprising of <a href="https://www.linkedin.com/in/satyajeet-ghosh-4b46481ba" target="_blank">me</a> and <a href="https://www.linkedin.com/in/aditya-singh-169387237/" target="_blank">Aditya Singh</a> built an E Learning Platform for Web Ally event conducted by Full Stack Development Club, <a href="https://www.linkedin.com/company/ascii-cse/" target="_blank">ASCII</a> and Christ University, Kengeri Campus, Banagalore.</h3>
 
-<h2>We secured 2nd place in the event.</h2>
+<h3>We secured 2nd place in the event.</h3>
 
 <p>This Website contains the following pages:</p>
 <ul>
