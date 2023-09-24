@@ -15,7 +15,6 @@
 <p>The website has a simple UI so that anyone can use it. It is fully responsive and can be viewed with ease accross all screen sizes.</p>
 
 <p>Tech stack Used: HTML, CSS, Javascript and Swiper Js</p>
-<p><a href="https://satyajeetghosh.github.io/E-Learning-Platform/" target="_blank">Click here</a> for a quick preview or go to https://satyajeetghosh.github.io/E-Learning-Platform/ </p>
 <h3>Resources:</h3>
 <ul>
 <li><a href="https://www.w3schools.com/">HTML, CSS, Javascript</a></li>
